@@ -73,7 +73,8 @@ npm run preview
 Deploy your project to Cloudflare Workers:
 
 ```bash
-npm run build && npm run deploy
+npm run build && npm run depl
+oy
 ```
 
 Monitor your workers:
